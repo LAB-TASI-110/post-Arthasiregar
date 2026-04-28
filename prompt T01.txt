@@ -1,0 +1,20 @@
+berikan sebuah program yang menggunakan bahasa java, mengenai sistem pengiriman bernama Del-Express yang sistemnya  transparam  dan perhitungannya otomatis. bekerja secara otomatis. petugas perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok. saat petugas menimbang paket mereka, ternyata terdapat sedikit perbedaan ukuran dus yang mereka gunakan. 
+Untuk promo ada dua syarat yaitu syarat pertama total berat pengiriman lebih dari 10 kg akan mendapat diskon ongkir sebesar 10%,lalu syarat kedua pengiriman ke kota luar pulau mendapat promo yaitu asuransi gratis
+input :
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+output :
+Struk Pembayaran yang terdiri dari:
+Kota tujuan,
+Berat paket Butet,
+Berat paket Ucok,
+Total berat,
+Total ongkos kirim,
+Informasi promo yang diperoleh,
+

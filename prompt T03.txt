@@ -1,0 +1,2 @@
+Buatlah sebuah sistem yang mendukung operasional kafeteria IT Del yang menjual berbagai jenis makanan dan minuman.
+Program mendukung sistem pemesanan online dan pembayaran yang transparan. Lalu terdapat diskon pemesanan sebesar 5% jika pemesanan diatas 50 ribu. Berikan juga beberapa fitur tambahan lain yg menurut kamu bagus untuk ditambahkan dalam sistem. Berikan 2 program yaitu 1 program Driver3 dan Model3. Sertakan juga input dan output
